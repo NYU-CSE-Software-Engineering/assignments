@@ -1,8 +1,18 @@
 # Project Presentation Guidelines
-Create a 45-minute presentation for the project using the following guidelines. The presentation should showcase what the team built, the technologies used in doing so, what works, what does 
+## Introduction
+Create a presentation of your team project using the following guidelines. The presentation should showcase what the team built, the technologies used in doing so, what works, what does 
 not work, what the team completed or failed to complete, where the project can go (if the team chooses to continue it), and what you would do differently. As this is a graduate course, evaluators 
-expect you to go beyond what you built and explain why you made key design decisions, which alternatives you considered, and what trade-offs you accepted. The 45-minute presentation is followed 
+expect you to go beyond what you built and explain why you made key design decisions, which alternatives you considered, and what trade-offs you accepted. The presentation should run 50 minutes and is followed 
 by a 10-minute Q&A with the entire class.
+
+As per our syllabus, _"Participation of all team members is required. Failure to attend and participate equally will result in a 0 grade for the presentation."_
+It is expected that each team member will participate in the presentation for roughly equal presentation time.  We strongly suggest practicing your presentation to ensure this requirement is met. The evaluation
+team will  be timing each member of the team during the presentation. While the rubric reflects the presentation as a whole for the team, the grade may be modified for any team member who is not present, late, or
+does not equally participate in the presentation. The team should be prepared to complete the entire presentation if one or more members are missing.
+
+At the time of the presentation, the project will be deployed and hosted (your choice of where/how) so that the evaluation team can utilize the application. Provide the URL to the application in advance, and have
+made  3 user accounts (one of each role for the evaluation team). These accounts will also be provided in advance of the presentation. The presentation must remain deployed for 7 days following the
+presentation for evaluation purposes.
 
 ## Timing Summary
 | Section | Slides | Time
