@@ -17,18 +17,18 @@ presentation for evaluation purposes.
 ## Timing Summary
 | Section | Slides | Time
 |---|---|---|
-| Introduction| 1-2| ~2 min|
-| Project Overview| 2-3| ~3 min|
-| Key Functionality Overview| 2-3| ~3 min|
-| Application Architecture and Data Flow| 5-7| ~7 min|
-| Core Requirements Deep Dive| 7-10| ~10 min|
-| Implementation Details and Production Readiness| 3-6| ~6 min|
-| Demo of Key Functionality| 0| ~10 min|
-| Concluding Remarks| 1-2| ~4 min|
-| Total presentation| | 45 min|
-| Questions and Answers| 0| ~5 min|
+| Introduction | 2-3 | ~5 min |
+| Project Overview | 2-3 | ~3 min |
+| Key Functionality Overview | 2-3 | ~3 min |
+| Application Architecture and Data Flow | 5-7 | ~7 min |
+| Core Requirements Deep Dive| 8-12 | ~12 min |
+| Implementation Details and Production Readiness | 3-6 | ~6 min |
+| Demo of Key Functionality | 0 | ~10 min|
+| Concluding Remarks | 1-2 | ~4 min|
+| **Total presentation** | | **50 min** |
+| Questions and Answers | 0| ~10 min |
 
-## Introduction - 1-2 slides, ~2 minutes
+## Introduction - 2-3 slides, ~5 minutes
 The introduction should include the team name (if applicable), the name of the application (e.g., BlueBonnet), and an introduction of each team member. Briefly mention the type of work each member did 
 (backend development, database, API design, integrations, frontend development, DevOps, etc.) as well as the features each member owned or contributed to in a significant way.
 
@@ -67,7 +67,7 @@ This section should clearly explain the core components of your Rails applicatio
   - **Migrations**: Describe how migrations were used to version-control schema changes, including any notable migration that required careful handling (e.g., backfilling data or changing a column on a
     populated table).
 
-## Core Requirements Deep Dive - 7-10 slides, ~10 minutes
+## Core Requirements Deep Dive - 8-12 slides, ~12 minutes
 This section demonstrates how the team met each of the project's core technical requirements. For each topic, explain your approach, the design decisions and alternatives you considered, and any limitations. 
 Allocate time according to where your team invested the most effort. Not every topic needs equal time, but every topic must be addressed.
 
@@ -162,7 +162,7 @@ The conclusion must include a brief, focused reflection on the project's develop
 
 If the team plans to continue the project, you may close with one brief slide on future directions (e.g., production payment processing, a mobile client, scaling concerns).
 
-# **Questions and Answers - 0 slides, ~5 minutes**
+# **Questions and Answers - 0 slides, ~10 minutes**
 This dedicated time is for the audience to engage with your team, providing valuable feedback and commentary.
 - Engagement and Professionalism
   - **Open Dialogue**: Be prepared for questions regarding your design choices, implementation work, feature set, architecture, security decisions, and technology stack (Rails-specific decisions). At the
